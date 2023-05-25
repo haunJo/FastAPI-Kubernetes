@@ -1,0 +1,7 @@
+fastapi/clip
+fastapi/models
+fastapi/modules
+fastapi/utils
+fastapi/yolov7.pt
+venv/*
+/__pycache__

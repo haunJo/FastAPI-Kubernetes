@@ -1,4 +1,4 @@
-#!/Users/haunjo/FastAPI-docker-compose/venv/bin/python3.11
+#!/home/haunjo/FastAPI-docker-compose/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
